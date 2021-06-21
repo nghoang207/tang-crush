@@ -1,4 +1,4 @@
-const CONFIG = {wassup
+const CONFIG = {
     introTitle: 'heyy Bianca Marie Gonzales😙😙 !',
     introDesc: `today is ur bday right?
     i'll give u 3 wishes
