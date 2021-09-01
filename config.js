@@ -1,19 +1,14 @@
-const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+const CONFIG = { 
+introTitle: 'alo alo ,b iu à', 
+introDesc:'biết t định làm gì k ??? 
+btnIntro: 'đíu biết', 
+title: 'đíu nói làm sao mà bít đc hehe 😙', 
+desc: 'tui có nên chúc tử tế k ta ?? ', 
+btnYes: 'tất nhiên là k rồi <33', 
+btnNo: 'có nha tr:3', 
+question:'t bt là m đang rất muốn chửi t thế là t đã để nguyên cái phần chat cho m <3', 
+btnReply: 'thoải mái đê <3', 
+reply: 'CHÚC MỪNG SINH NHẬT NHA <33333333', 
+mess: 'tuổi mới ngày càng xinh đẹp và luôn vui vẻ nha 🥰. ntl mọi điều tuyệt vời nhất sẽ đến bên m 😘😘', 
+messDesc: 'đừng buồn nữa nha,cảm ơn m nhìu nhìu thời gian qua.', 
+btnAccept: 'hahaha <3',
