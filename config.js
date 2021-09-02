@@ -12,3 +12,4 @@ reply: 'CHÚC MỪNG SINH NHẬT NHA <33333333',
 mess: 'tuổi mới ngày càng xinh đẹp và luôn vui vẻ nha 🥰. ntl mọi điều tuyệt vời nhất sẽ đến bên m 😘😘', 
 messDesc: 'đừng buồn nữa nha,cảm ơn m nhìu nhìu thời gian qua.', 
 btnAccept: 'hahaha <3',
+}
