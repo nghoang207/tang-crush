@@ -1,10 +1,10 @@
 const CONFIG = { 
 introTitle: 'alo alo ,b iu à',
-introDesc:`biết t định làm gì k ??',
+introDesc:`biết t định làm gì k ??`,
 btnIntro: 'đíu biết',
-title: 'đíu nói làm sao mà bít đc hehe 😙', 
+title: 'đíu nói làm sao mà bít đc hehe 😙',
 desc: 'tui có nên chúc tử tế k ta ?? ', 
-btnYes: 'tất nhiên là k rồi <33', 
+btnYes: 'tất nhiên là k rồi hè hè',
 btnNo: 'có nha tr:3', 
 question:'t bt là m đang rất muốn chửi t thế là t đã để nguyên phần chat cho m chửi t đấy :)) ' ,
 btnReply: 'thoải mái đê <3', 
