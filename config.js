@@ -1,6 +1,6 @@
 const CONFIG = { 
     introTitle: 'hello b iu !', 
-    introDesc: bt tao định làm gì k ???, 
+    introDesc: `bt tao định làm gì k ???`, 
     btnIntro: 'đíu biết ', 
     title: 'bố m đéo chúc m đâu dmm 😙', 
     desc: 'có nên chúc m tử tế k ta ??? ', 
