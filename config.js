@@ -10,5 +10,7 @@ const CONFIG = {
   btnReply: 'okila <3', 
   reply: 'chúc b luôn luôn xinh đệp 😀 đỗ đại học nha m 🤩 nghe lời ba má vs t nhé 😎', 
   mess: 'tuổi mới bùng lổ nha mài', 
+  messDesc: 'Xin lỗi vì quên nha.',
+  btnAccept: 'Okiiiii lun <3',
 }
 
